@@ -42,7 +42,8 @@ void Gradebook::calculate_lab_grade(std::vector<std::vector<double>> *grades){
     }
     std::cout << sum << "," << size << std::endl;
     percent = ((sum/(max_score*size)) * 100);
+    lab_grade = (percent/100 * grade_weight);
     std::cout << "Your overall lab grade is " << percent << " % "<< std::endl;
-    std::cout << "This translates to " << (percent/100 * grade_weight) << "/" << grade_weight << " points"<< std::endl;
+    std::cout << "This translates to " <<  lab_grade << "/" << grade_weight << " points"<< std::endl;
 
 }
