@@ -1,15 +1,15 @@
 # MEC-project
 
-Group Members: 
+##Group Members: 
 
 
-Project Summary:
+##Project Summary:
 
 
 
-Pseudocode:
+##Pseudocode:
 
 
-Algorithm Features
+##Algorithm Features
 
 * Inputs:
