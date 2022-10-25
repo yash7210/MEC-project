@@ -1,15 +1,23 @@
 # MEC-project
 
-##Group Members: 
+Group Members: Nadia Sousa, 
 
 
-##Project Summary:
+Project Summary:
 
 
+Pseudocode:
 
-##Pseudocode:
 
-
-##Algorithm Features
+Algorithm Features
 
 * Inputs:
+* Outputs:
+* Why We Developed it this Way:
+
+
+How to:
+* Input the Data:
+* Compile the Features:
+
+
