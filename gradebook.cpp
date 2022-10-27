@@ -84,7 +84,7 @@ void Gradebook::calculate_lab_grade(std::vector<std::vector<double>> *grades){
 
     possible_points += max_score;
     lab_grade = sum;
-    std::cout << max_score << "\t" << possible_points << std::endl;
+    //std::cout << max_score << "\t" << possible_points << std::endl;
 }
 
 void Gradebook::calculate_assignment_grade(std::vector<std::vector<double>> *grades){
@@ -118,7 +118,7 @@ void Gradebook::calculate_assignment_grade(std::vector<std::vector<double>> *gra
 
     assignment_grade = sum;
     possible_points += max_score;
-    std::cout << max_score << "\t" << possible_points << std::endl;
+    //std::cout << max_score << "\t" << possible_points << std::endl;
 }
 
 void Gradebook::term_project(std::vector<std::vector<double>> *grades) {
@@ -138,7 +138,7 @@ void Gradebook::term_project(std::vector<std::vector<double>> *grades) {
 
     term_project_grade = score;
     possible_points += grade_weight;
-    std::cout << grade_weight << "\t" << possible_points << std::endl;
+    //std::cout << grade_weight << "\t" << possible_points << std::endl;
 }
 
 
