@@ -1,6 +1,6 @@
 # MEC-project
 
-Group Members: Nadia Sousa, Yashaswini Mandalam, Sean Phelan, 
+Group Members: Nadia Sousa, Yashaswini Mandalam, Sean Phelan, Wyatt Polasek
 
 
 Project Summary:
@@ -9,6 +9,8 @@ This project takes in a students grade and calculates their final course grade. 
 
 
 Pseudocode:
+
+![image](https://user-images.githubusercontent.com/98436401/198358133-89c45b27-0eeb-40f3-af5b-e2e6ac608a7f.png)
 
 
 Algorithm Features
