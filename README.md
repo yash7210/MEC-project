@@ -3,7 +3,7 @@
 Group Members: Nadia Sousa, Yashaswini Mandalam, Sean Phelan, Wyatt Polasek
 
 
-##Project Summary:
+Project Summary:
 
 This project takes in a students grade and calculates their final course grade. The user inputs a text file with the ordered grades and then the program reads the file into a 2D vector. From there, each task object is run to calculate the average grade for each task (labs, assignments, term project, final exam, MEC), the object to calculate the final overal grade, as well as the output grades object to print out the results.  
 
