@@ -1,16 +1,17 @@
-# MEC-project
+### MEC-project
 
 Group Members: Nadia Sousa, Yashaswini Mandalam, Sean Phelan, Wyatt Polasek
 
 
-Project Summary:
+##Project Summary:
 
 This project takes in a students grade and calculates their final course grade. The user inputs a text file with the ordered grades and then the program reads the file into a 2D vector. From there, each task object is run to calculate the average grade for each task (labs, assignments, term project, final exam, MEC), the object to calculate the final overal grade, as well as the output grades object to print out the results.  
 
 
 Pseudocode:
 
-![image](https://user-images.githubusercontent.com/98436401/198358133-89c45b27-0eeb-40f3-af5b-e2e6ac608a7f.png)
+
+<img align = "center" height = 400 src = "https://user-images.githubusercontent.com/98436401/198358133-89c45b27-0eeb-40f3-af5b-e2e6ac608a7f.png" />
 
 
 Algorithm Features
@@ -22,7 +23,7 @@ Algorithm Features
   * then it prints out the final grade as a percentage
 
 
-  ![outputscreenshot](https://user-images.githubusercontent.com/85038009/198421367-1ea2ac53-8d9e-4a27-8eaf-8749d2c2d541.jpg)
+<img align = "center" height = 150 src = "https://user-images.githubusercontent.com/85038009/198422603-fc575063-eda1-4038-bc6a-f1f300e998b7.png" />
 
 
 * Why We Developed it this Way:
