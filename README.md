@@ -66,7 +66,7 @@ This project takes in a student's grades and calculates their final course grade
 </kbd>
 
 
-Click the follwing link to watch a video explaining our code : <a href = "https://www.youtube.com/watch?v=VR5oyQfhzVM">Click me!</a> :cinema:
+Click the following link to watch a video explaining our code : <a href = "https://www.youtube.com/watch?v=VR5oyQfhzVM">Click me!</a> :cinema:
 
 <h3>Why We Developed it this way:</h3>
 <ul> 
