@@ -20,7 +20,8 @@ Algorithm Features
 * Outputs:
   * prints out the name of the graded task, the corresponding points earned, and grade for each task overall
   * then it prints out the final grade as a percentage
-  ![image](https://user-images.githubusercontent.com/85038009/198420549-5778558b-4ddb-4456-9ce5-c1b31b8de103.png)
+  ![outputscreenshot](https://user-images.githubusercontent.com/85038009/198421367-1ea2ac53-8d9e-4a27-8eaf-8749d2c2d541.jpg)
+
 
 * Why We Developed it this Way:
 
